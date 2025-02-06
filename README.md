@@ -7,9 +7,18 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=mrzjy&style=flat-square&color=blue" alt=""/>
 
+## Hi there 👋
+
 </div>
 
-## Hi there 👋
+<div align="center">
+
+|Stats|Top Langs|
+|--|--|
+|![mrzjy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrzjy&count_private=true&show_icons=true&theme=radical)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrzjy&layout=compact)](https://github.com/svjack/github-readme-stats)|
+
+</div>
+
 
 <!--
 **mrzjy/mrzjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
