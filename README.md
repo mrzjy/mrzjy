@@ -1,3 +1,14 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div align="center" style="line-height: 1;" id="badge">
+  <a href="https://huggingface.co/datasets/mrzjy" target="_blank" style="margin: 2px;">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-mrzjy-ffc107?color=ffc107&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mrzjy&style=flat-square&color=blue" alt=""/>
+
+</div>
+
 ## Hi there 👋
 
 <!--
